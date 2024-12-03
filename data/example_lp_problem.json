@@ -1,0 +1,8 @@
+{
+    "objective": [-1, -2],
+    "constraints": {
+        "lhs_ineq": [[2, 1], [-4, 5], [1, -2]],
+        "rhs_ineq": [20, 10, 2]
+    },
+    "bounds": [[0, null], [0, null]]
+}
